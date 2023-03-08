@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "fileName",
+      "type": "java.lang.String",
+      "description": "File name for Rent Company."
+    },
+    {
+      "name": "gasPrice",
+      "type": "java.lang.Integer",
+      "description": "Gas price in company for filter."
+    },
+    {
+      "name": "finePercent",
+      "type": "java.lang.Integer",
+      "description": "Description for finePercent."
+    }
+  ] }
